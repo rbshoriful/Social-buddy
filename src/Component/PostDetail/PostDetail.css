@@ -1,0 +1,13 @@
+.postStyle{
+    box-shadow: 0px 2px 1px -1px gray;
+    width: 60%;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    
+
+}
+Link{
+    text-decoration: none;
+}
